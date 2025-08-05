@@ -4,7 +4,10 @@ Projeto de um piano virtual desenvolvido com HTML, CSS e JavaScript, com foco em
 
 ## 🖼️ Visão Geral
 
-https://github.com/Vitaosouzaa/Piano-Digital/blob/main/assets/src/image/piano.png
+<p align="center" >
+    <br />
+    <img src= "assets/src/image/piano.png" />
+</p>
 
 ## 🚀 Funcionalidades
 
