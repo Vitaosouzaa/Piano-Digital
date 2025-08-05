@@ -4,7 +4,7 @@ Projeto de um piano virtual desenvolvido com HTML, CSS e JavaScript, com foco em
 
 ## 🖼️ Visão Geral
 
-![Piano Digital Screenshot](https://user-images.githubusercontent.com/seu-usuario/piano-digital-preview.png) <!-- Substituir com o link correto da imagem, se desejar -->
+https://github.com/Vitaosouzaa/Piano-Digital/blob/main/assets/src/image/piano.png
 
 ## 🚀 Funcionalidades
 
